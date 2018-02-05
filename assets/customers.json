@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Rocío Ght",
+        "company": "Monkey Inc.",
+        "phone": "444-111-333"
+    },
+    {
+        "id": 2,
+        "name": "Carlos Rtw",
+        "company": "Lemon Inc.",
+        "phone": "000-222-333"
+    },
+    {
+        "id": 3,
+        "name": "Rocío Zlo",
+        "company": "Turtle Inc.",
+        "phone": "666-111-555"
+    }
+]
